@@ -1,0 +1,96 @@
+*{
+    margin: 0;
+    padding: 0;
+    font-weight: 600;
+}
+.numbtn{
+    width: 70px;
+    height: 70px;
+    border-radius: 50%;
+    color: red;
+}
+.numbtn:hover{
+    background-color: rgb(255, 207, 111);
+}
+.isChoose{
+    border: 5px solid red;
+}
+.header{
+    background-color: #a00;
+    display: flex;
+}
+.headerTitle{
+    color: rgb(248, 236, 12);
+    text-align: center;
+
+}
+.headerBtn{
+    text-align: right;
+}
+.banner table{
+    width: 100%;
+    border-collapse: collapse;
+}
+.banner tr{
+    width: 50%;
+}
+.banner td{
+    font-size: 19px;
+    height: 30px;
+    padding: 0 5px;
+    text-align: center;
+}
+.banner tr:nth-child(1){
+    background-color:rgb(243, 139, 139);
+}
+.banner tr:nth-child(even){
+    background-color:rgb(241, 221, 117);
+}
+.callblock{
+    background-color: rgb(241, 221, 117);
+}
+.btngroup button{
+    width: 100px;
+    height: 60px;
+    color: red;
+}
+.btngroup button:hover{
+    background-color: rgb(255, 207, 111);
+}
+.bouns{
+    background-color: rgb(246, 214, 51);
+}
+.callNumbers{
+    background-color: rgb(250, 225, 101);
+    height: 300px;
+    max-height: 300px;
+    overflow-y: overlay;
+}
+.numLis{
+    list-style-type:none;
+}
+.delBtn{
+    width: 100px;
+    height: 30px;
+    color: #f00;
+}
+.lottery{
+    background-color: rgb(233, 211, 106);
+}
+.lotteryUl{
+    display: flex;
+    list-style: none;
+}
+.lotteryLi{
+    font-size: 50px;
+}
+.lottBtn{
+    width: 200px;
+    height: 50px;
+    color: #f00;
+    font-size: 20px;
+}
+.bingo{
+    color: #f00;
+    font-size: 20px;
+}

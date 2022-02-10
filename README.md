@@ -1,4 +1,7 @@
 # VueLottery
+
+本專案使用到的技術: Vue3,JavaScript,HTNL5,CSS3,Bootstrap5,jQuery
+
 起始頁面
 ![image](https://github.com/Shyang416/VueLottery/blob/main/testPic/001.JPG)
 
